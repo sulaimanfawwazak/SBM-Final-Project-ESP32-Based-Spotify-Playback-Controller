@@ -15,7 +15,7 @@ If you want to make your own controller, you need to purchase Spotify Premium in
 3. Open the dashboard
 4. Click on the “Create App” button
 5. Fill in the form
-   ![Create App Form](image_url_here)
+   ![Create App Form](spotify-make-app.png)
 6. After you create the app, click on the app and then click on “Settings”
 7. Here you can find your Client URL and Client Secret
 
