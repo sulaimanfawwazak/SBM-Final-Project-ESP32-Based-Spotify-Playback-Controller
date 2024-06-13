@@ -2,6 +2,8 @@
 
 ## ESP(otify)32: ESP32-Based Spotify Playback Controller
 
+![](demo-photo.png)
+
 ### Disclaimer
 If you want to make your own controller, you need to purchase Spotify Premium in order to access Spotify’s APIs.
 
