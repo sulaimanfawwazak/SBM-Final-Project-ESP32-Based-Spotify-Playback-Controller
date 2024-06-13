@@ -13,12 +13,12 @@
 #define LV_VER_RES_MAX 240
 
 // WiFi info
-const char* ssid = "faw";
-const char* password = "tongpotongpo";
+const char* ssid = "YOUR_WIFI_SSID";
+const char* password = "YOUR_WIFI_PASSWORD";
 
 // Spotify client info
-const char* client_id = "ee024f87dd83450d919e59e01aa8c992";
-const char* client_secret = "b50894d04bfe47ac840f746def448d75";
+const char* client_id = "YOUR_SPOTIFY_APP_CLIENT_ID";
+const char* client_secret = "YOUR_SPOTIFY_APP_CLIENT_PASSWORD";
 
 // Spotify tokens
 String spotifyAccessToken = "";
