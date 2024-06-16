@@ -53,14 +53,17 @@ If you want to use the already-built GUI, skip this step.
 
 1. Search for `“SquareLine Studio”` software on your browser
 2. Follow the installation steps
-3. Add images and set their positions according to your preferences
-4. Click on `File > Project Settings`
-5. Adjust the export paths
-6. On the `“LVGL Include Path”`, write `lvgl.h`
-7. After you’re done designing, export the project
-8. Navigate to your working directory
-9. You should see `.h` and `.c` files in your working directory
-10. Copy these files into the working directory of your Arduino file (`*.ino`) (For Linux: `~/Arduino/project_name`)
+3. Make a new project by clicking `Create > Arduino`
+4. Fill out the `Project name`, `Resolution`, and `Color depth` depending on your LCD display
+5. Set the LVGL version to `8.3.6`
+6. Add images and set their positions according to your preferences
+7. Click on `File > Project Settings`
+8. Adjust the export paths
+9. On the `“LVGL Include Path”`, write `lvgl.h`
+10. After you’re done designing, export the project
+11. Navigate to your working directory
+12. You should see `.h` and `.c` files in your working directory
+13. Copy these files into the working directory of your Arduino file (`*.ino`) (For Linux: `~/Arduino/project_name`)
 
 ## Get The Spotify Authorization Code
 1. Copy the `Client ID` and `Client Secret` from the Dashboard
