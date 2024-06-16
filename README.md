@@ -12,6 +12,7 @@ If you want to make your own controller, you need to purchase Spotify Premium in
 - [TFT LCD 2.4” Display with ILI9341 driver (240 x 320)](https://tokopedia.link/SVTiKKR3mKb)
 - [Jumper Cables (Male to Male)](https://tokopedia.link/mMvr2v5UsKb)
 - [Breadboard](https://tokopedia.link/dtXleObVsKb)
+- [Data Cable](https://tokopedia.link/pnzqBorVsKb)
 
 ## Make a Spotify App
 1. Go to [Spotify Developer](https://developer.spotify.com)
